@@ -32,3 +32,6 @@ If you would like to contribute to this project, please open a pull request and 
 
 ## Authors
 > Terrell-Byte
+
+## NOTE
+This script does sometime not work as expected. Please feel free to open an issue if you have any problems.
