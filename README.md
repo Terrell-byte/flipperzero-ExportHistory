@@ -11,7 +11,7 @@ This script allows you to export your browser history to a Discord webhook. It u
 
 1. Clone the repository
 ```
-git clone [https://github.com/Terrell-byte/CheckIT.git](https://github.com/Terrell-byte/flipperzero-ExportHistory.git)
+git clone https://github.com/Terrell-byte/flipperzero-ExportHistory.git
 ```
 
 2. Edit the Export_Browser_History.txt file
